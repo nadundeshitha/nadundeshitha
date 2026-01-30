@@ -43,6 +43,9 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
 ![](https://github.com/nadundeshitha/nadundeshitha/blob/images/avoltmeter.jpeg)  
 [_Fully Analog Voltmeter Design & Implementation_](https://github.com/nadundeshitha/analog-voltmeter)
 
+![@aprilspeight](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(0).png)  [_World Bank funded AHEAD Project to Develop a Portable BMI Measuring Device for Clinical Settings._](https://chathuranirmal.com/MeasureUP/) | ![@Brawrdon](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(1).png) [_Zero G Dynamic Body-Weight Support System Using a Motorized Unloader_](https://github.com/chathuracns/Zero-G-Dynamic-Body-Weight-Support-System-Using-a-Motorized-Unloader)
+--- | ---
+![ ](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(3).png) [_ECG Signal Extracting and Monitorig Using Analog Electronics and wet electrodes_](https://github.com/chathuracns/ECG-Signal-Extracting-and-Monitoring-Using-Analog-Electronics-and-wet-electrodes)| ![](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(2).png) [_Human Height Measuring Under Low Ultrasound Reflection due to Dense Scalp Hair_](https://github.com/chathuracns/Human-Height-Measuring-Under-Low-Ultrasound-Reflection-due-to-Dense-Scalp-Hair)
 
 ---
 
