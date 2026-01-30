@@ -47,11 +47,19 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
 
 ---
 
-## 🛠 Skills
-- Embedded: ESP32, Arduino, I2C, SPI  
-- Sensors: MPU6050, MAX30102, BMP280  
-- Languages: C/C++, Python, MicroPython, MATLAB  
-- Tools: Git, Figma, Adobe Premiere, Illustrator`
+## 🔗 Skills → Project / Experience
+
+| Project / Experience | Skills Demonstrated |
+|---------------------|-------------------|
+| [**HemoSense – Low-Cost Real-time Postpartum Hemorrhage (PPH) Monitoring Device**](https://github.com/nadundeshitha/REPO_LINK_HERE) | Medical Device Prototyping, Biomedical Instrumentation, Signal Conditioning, ML, Analog Circuit Design, MQTT & IoT in Healthcare, Regulatory Awareness (FDA / CE basics) |
+| [**Smart Fall – Wearable Fall Detection & Emergency Alert System**](https://github.com/nadundeshitha/REPO_LINK_HERE) | Embedded Systems, Sensor Integration, Biomedical Signal Monitoring, Signal Processing, IoT & Mobile Integration, Power Management, PCB Design |
+| [**Robot Design & Competition (EN2533)**](https://github.com/nadundeshitha/REPO_LINK_HERE) | Robotics, Autonomous Systems, Mechanical Design, Sensor Integration, Power Management, Embedded Control Systems |
+| [**Fully Analog Voltmeter Design**](https://github.com/nadundeshitha/REPO_LINK_HERE) | Analog Circuit Design, Operational Amplifiers, Electronic Measurements, LTspice Simulation |
+| [**4-bit Adder–Subtractor (with Custom 5V Regulator)**](https://github.com/nadundeshitha/REPO_LINK_HERE) | Digital Electronics, Combinational Logic Design, Voltage Regulation |
+| [**Wearable Device PCB & Enclosure Design**](https://github.com/nadundeshitha/REPO_LINK_HERE) | PCB Design, Altium Designer, Easy EDA, SOLIDWORKS, Autodesk Fusion, Hardware Integration |
+| [**Graphic Design & Video Editing (Fiverr / IEEE)**](https://github.com/nadundeshitha/REPO_LINK_HERE) | Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Visual Communication, Branding |
+| [**Academic & Research Projects – University of Moratuwa**](https://github.com/nadundeshitha?tab=repositories) | Embedded Systems, Biomedical Instrumentation, Signal Processing, Electronics, Robotics, Telecommunication Fundamentals|
+
 
 ---
 
