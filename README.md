@@ -29,19 +29,9 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
 
 ## Projects & Highlights
 
-![](https://github.com/nadundeshitha/nadundeshitha/blob/images/PPH.jpg)  
-[_HemoSense – Low-Cost Real-time Postpartum Hemorrhage (PPH) Monitoring Device_](https://github.com/nadundeshitha/hemosense)  
-|  
-![](https://github.com/nadundeshitha/nadundeshitha/blob/images/smartfall.jpg)  
-[_Smart Fall – Wearable Fall Detection & Emergency Alert System_](https://github.com/nadundeshitha/smart-fall)
-
+![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/PPH.jpg) [_HemoSense – Low-Cost Real-time Postpartum Hemorrhage (PPH) Monitoring Device_](https://github.com/nadundeshitha/hemosense)| ![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/smartfall.jpg) [_Smart Fall – Wearable Fall Detection & Emergency Alert System_](https://github.com/nadundeshitha/smart-fall)
 --- | ---
-
-![](https://github.com/nadundeshitha/nadundeshitha/blob/images/robot.jpg)  
-[_Robot Design Competition – Autonomous Mobile Robot (EN2533)_](https://github.com/nadundeshitha/robot-design-competition)  
-|  
-![](https://github.com/nadundeshitha/nadundeshitha/blob/images/avoltmeter.jpeg)  
-[_Fully Analog Voltmeter Design & Implementation_](https://github.com/nadundeshitha/analog-voltmeter)
+![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/robot.jpg) [_Robot Design Competition – Autonomous Mobile Robot (EN2533)_](https://github.com/nadundeshitha/robot-design-competition)| ![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/avoltmeter.jpeg) [_Fully Analog Voltmeter Design & Implementation_](https://github.com/nadundeshitha/analog-voltmeter)
 
 ![@aprilspeight](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(0).png)  [_World Bank funded AHEAD Project to Develop a Portable BMI Measuring Device for Clinical Settings._](https://chathuranirmal.com/MeasureUP/) | ![@Brawrdon](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(1).png) [_Zero G Dynamic Body-Weight Support System Using a Motorized Unloader_](https://github.com/chathuracns/Zero-G-Dynamic-Body-Weight-Support-System-Using-a-Motorized-Unloader)
 --- | ---
