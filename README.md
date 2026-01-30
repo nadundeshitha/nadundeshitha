@@ -1,6 +1,6 @@
 <!-- Top banner / hero -->
-![Diagram of the system](https://github.com/nadundeshitha/nadundeshitha/main/cover.jpg)
-<h1 align="center">Hi 👋, I'm Nadunn Deshitha Bandara </h1>
+![cover](https://github.com/nadundeshitha/nadundeshitha/main/cover.jpg)
+<h1 align="center">Hi, I'm Nadun Bandara </h1>
 <p align="center">Biomedical Engineering Undergraduate | Department of Electronic and Telecommunication Engineering | University of Moratuwa </p>
 
 <!-- Socials -->
