@@ -27,23 +27,53 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
 ---
 
 ## 🔭 Projects & Highlights
-<!-- Replace with images and links to important projects -->
+
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT-REPO-1">
-        <img src="images/project1-thumb.png" alt="Project 1" width="220" />
-        <p>Project 1 — Short subtitle</p>
+    <!-- Smart Fall -->
+    <td align="center" width="50%">
+      <a href="https://github.com/nadundeshitha/smart-fall">
+        <img src="images/smart-fall.png" alt="Smart Fall" width="260" />
+        <br />
+        <strong>Smart Fall</strong><br />
+        <sub>Wearable Fall Detection & Emergency Alert System</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT-REPO-2">
-        <img src="images/project2-thumb.png" alt="Project 2" width="220" />
-        <p>Project 2 — Short subtitle</p>
+
+    <!-- HemoSense -->
+    <td align="center" width="50%">
+      <a href="https://github.com/nadundeshitha/hemosense">
+        <img src="images/hemosense.png" alt="HemoSense" width="260" />
+        <br />
+        <strong>HemoSense</strong><br />
+        <sub>Low-Cost Postpartum Hemorrhage Monitoring Device</sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Robot Design Competition -->
+    <td align="center" width="50%">
+      <a href="https://github.com/nadundeshitha/robot-design-competition">
+        <img src="images/robot-design.png" alt="Robot Design Competition" width="260" />
+        <br />
+        <strong>Robot Design Competition</strong><br />
+        <sub>Autonomous Mobile Robot (EN2533)</sub>
+      </a>
+    </td>
+
+    <!-- Design & Media Portfolio -->
+    <td align="center" width="50%">
+      <a href="https://nadundeshitha.top">
+        <img src="images/design-portfolio.png" alt="Design Portfolio" width="260" />
+        <br />
+        <strong>Design & Media Portfolio</strong><br />
+        <sub>Graphic Design, Motion Graphics & Video Editing</sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -60,13 +90,6 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
 | [**Graphic Design & Video Editing (Fiverr / IEEE)**](https://github.com/nadundeshitha/REPO_LINK_HERE) | Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Visual Communication, Branding |
 | [**Academic & Research Projects – University of Moratuwa**](https://github.com/nadundeshitha?tab=repositories) | Embedded Systems, Biomedical Instrumentation, Signal Processing, Electronics, Robotics, Telecommunication Fundamentals|
 
-
----
-
-## 📊 GitHub Stats
-<!-- Replace YOUR_USERNAME -->
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
