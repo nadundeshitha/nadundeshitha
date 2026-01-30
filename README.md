@@ -1,29 +1,64 @@
-# [Your Name]
-### Passionate in Biomedical Engineering | Signal Processing | Embedded Systems
+<!-- Top banner / hero -->
+<h1 align="center">Hi 👋, I'm YOUR NAME (YOUR_GITHUB_USERNAME)</h1>
+<p align="center">Biomedical Engineering Undergraduate • Embedded Systems • HCI • ML for Bio</p>
 
-I'm [Your Name], a 2nd-year Electronic and Telecommunication Engineering undergraduate at the University of Moratuwa. I specialize in electronics and biomedical applications, with a strong interest in how signal processing and control systems can solve healthcare challenges.
-
-I am actively involved in the **IEEE EMBS student chapter**, where I serve as the lead for web PR and design. One of my key contributions was designing the visual identity for the **"Brainstorm"** event. I enjoy meticulous project planning, from creating technical proposals to developing hardware prototypes like the **Blood Volume Pulse (BVP) sensor** I built using a 555 timer and ESP32.
-
-In my academic journey, I’ve worked on diverse engineering problems, including a deep-dive dissection of **Gigabyte motherboard architectures** and designing **multi-range analog voltmeters**. Recently, I participated in the **SPARK Challenge**, developing an "Automatic Drain Cleaning & Water Quality Protection System" to address environmental issues through automation.
-
-Outside of core engineering, I have a keen eye for aesthetics, frequently working on graphic design for event flyers and project enclosures. I'm also proficient in C++, Python, and LaTeX.
-
----
-
-### Projects and Experience
-
-| | |
-| --- | --- |
-| **Automatic Drain Cleaning System** <br> Developed for the SPARK Challenge to protect water quality. | **Blood Volume Pulse (BVP) Sensor** <br> A custom sensor design using a 555 timer and ESP32 for health monitoring. |
-| **Multi-range Analog Voltmeter** <br> Precision circuit design for academic measurement applications. | **IEEE EMBS - "Brainstorm"** <br> Lead designer for the web PR and event branding theme. |
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="https://www.instagram.com/YOUR_HANDLE"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@YOUR_HANDLE-purple?logo=instagram"></a>
+  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
+  <a href="https://YOUR_WEBSITE"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-green?logo=google-chrome"></a>
+</p>
 
 ---
 
-### Technical Toolkit
-- **Languages:** C++, Python, LaTeX, MATLAB
-- **Hardware:** ESP32, Arduino, Analog/Digital Circuit Design
-- **Tools:** Altium/KiCad, Signal Processing, Control Systems
+## About Me
+I’m **YOUR NAME**, an undergraduate in Biomedical Engineering at **University of Moratuwa**. I work on embedded systems, wearable health devices, and ML models for biosignals. I enjoy video & graphic design in my free time.
 
-### Connect with me
-[LinkedIn](your-link-here) | [Website/Portfolio](your-link-here)
+---
+
+## 🔭 Projects & Highlights
+<!-- Replace with images and links to important projects -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/YOUR_USERNAME/PROJECT-REPO-1">
+        <img src="images/project1-thumb.png" alt="Project 1" width="220" />
+        <p>Project 1 — Short subtitle</p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YOUR_USERNAME/PROJECT-REPO-2">
+        <img src="images/project2-thumb.png" alt="Project 2" width="220" />
+        <p>Project 2 — Short subtitle</p>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Skills
+- Embedded: ESP32, Arduino, I2C, SPI  
+- Sensors: MPU6050, MAX30102, BMP280  
+- Languages: C/C++, Python, MicroPython, MATLAB  
+- Tools: Git, Figma, Adobe Premiere, Illustrator
+
+---
+
+## 📌 How to pin these repos
+After you commit this README, go to your GitHub profile → **Customize your pins** → select the repos you want to show (pick ones above). :contentReference[oaicite:7]{index=7}
+
+---
+
+## 📊 GitHub Stats
+<!-- Replace YOUR_USERNAME -->
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## ✉️ Contact
+- Email: YOUR_EMAIL  
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
+
