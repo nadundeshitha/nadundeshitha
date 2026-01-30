@@ -1,5 +1,5 @@
 <!-- Top banner / hero -->
-![cover](https://github.com/nadundeshitha/nadundeshitha/images/cover.jpg)
+![cover](https://github.com/nadundeshitha/nadundeshitha/blob/images/cover.jpg)
 <h1 align="center">Hi, I'm Nadun Bandara </h1>
 <p align="center">Biomedical Engineering Undergraduate | Department of Electronic and Telecommunication Engineering | University of Moratuwa </p>
 
