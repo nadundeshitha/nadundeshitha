@@ -31,12 +31,7 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
 
 ![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/PPH.jpg) [_HemoSense – Low-Cost Real-time Postpartum Hemorrhage (PPH) Monitoring Device_](https://github.com/nadundeshitha/hemosense)| ![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/smartfall.jpg) [_Smart Fall – Wearable Fall Detection & Emergency Alert System_](https://github.com/nadundeshitha/smart-fall)
 --- | ---
-![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/robot.jpg) [_Robot Design Competition – Autonomous Mobile Robot (EN2533)_](https://github.com/nadundeshitha/robot-design-competition)| ![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/avoltmeter.jpeg) [_Fully Analog Voltmeter Design & Implementation_](https://github.com/nadundeshitha/analog-voltmeter)
-
-![@aprilspeight](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(0).png)  [_World Bank funded AHEAD Project to Develop a Portable BMI Measuring Device for Clinical Settings._](https://chathuranirmal.com/MeasureUP/) | ![@Brawrdon](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(1).png) [_Zero G Dynamic Body-Weight Support System Using a Motorized Unloader_](https://github.com/chathuracns/Zero-G-Dynamic-Body-Weight-Support-System-Using-a-Motorized-Unloader)
---- | ---
-![ ](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(3).png) [_ECG Signal Extracting and Monitorig Using Analog Electronics and wet electrodes_](https://github.com/chathuracns/ECG-Signal-Extracting-and-Monitoring-Using-Analog-Electronics-and-wet-electrodes)| ![](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP%20(2).png) [_Human Height Measuring Under Low Ultrasound Reflection due to Dense Scalp Hair_](https://github.com/chathuracns/Human-Height-Measuring-Under-Low-Ultrasound-Reflection-due-to-Dense-Scalp-Hair)
-
+![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/robot.jpg) [_Robot Design Competition – Autonomous Mobile Robot (EN2533)_](https://github.com/nadundeshitha/robot-design-competition)| ![ ](https://github.com/nadundeshitha/nadundeshitha/blob/images/voltmeter.jpeg) [_Fully Analog Voltmeter Design & Implementation_](https://github.com/nadundeshitha/analog-voltmeter)
 ---
 
 ## Skills → Project / Experience
