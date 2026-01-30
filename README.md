@@ -39,7 +39,9 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
         <sub>Wearable Fall Detection & Emergency Alert System</sub>
       </a>
     </td>
+  </tr>
 
+  <tr>
     <!-- HemoSense -->
     <td align="center" width="50%">
       <a href="https://github.com/nadundeshitha/hemosense">
@@ -61,7 +63,9 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
         <sub>Autonomous Mobile Robot (EN2533)</sub>
       </a>
     </td>
+  </tr>
 
+  <tr>
     <!-- Design & Media Portfolio -->
     <td align="center" width="50%">
       <a href="https://nadundeshitha.top">
