@@ -1,19 +1,18 @@
 <!-- Top banner / hero -->
-<h1 align="center">Hi 👋, I'm YOUR NAME (YOUR_GITHUB_USERNAME)</h1>
-<p align="center">Biomedical Engineering Undergraduate • Embedded Systems • HCI • ML for Bio</p>
+<h1 align="center">Hi 👋, I'm Nadunn Deshitha Bandara </h1>
+<p align="center">Biomedical Engineering Undergraduate | Department of Electronic and Telecommunication Engineering | University of Moratuwa </p>
 
 <!-- Socials -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
-  <a href="https://www.instagram.com/YOUR_HANDLE"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@YOUR_HANDLE-purple?logo=instagram"></a>
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
-  <a href="https://YOUR_WEBSITE"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-green?logo=google-chrome"></a>
+  <a href="mailto:nadundeshitha828@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
+  <a href="https://nadundeshitha.top"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-green?logo=google-chrome"></a>
 </p>
 
 ---
 
 ## About Me
-I’m **YOUR NAME**, an undergraduate in Biomedical Engineering at **University of Moratuwa**. I work on embedded systems, wearable health devices, and ML models for biosignals. I enjoy video & graphic design in my free time.
+I’m a Biomedical Engineering student at University of Moratuwa passionate about healthcare innovation, embedded systems, and creative design. I love combining technology and design to create meaningful solutions to real-world challenges.
 
 ---
 
@@ -42,12 +41,7 @@ I’m **YOUR NAME**, an undergraduate in Biomedical Engineering at **University 
 - Embedded: ESP32, Arduino, I2C, SPI  
 - Sensors: MPU6050, MAX30102, BMP280  
 - Languages: C/C++, Python, MicroPython, MATLAB  
-- Tools: Git, Figma, Adobe Premiere, Illustrator
-
----
-
-## 📌 How to pin these repos
-After you commit this README, go to your GitHub profile → **Customize your pins** → select the repos you want to show (pick ones above). :contentReference[oaicite:7]{index=7}
+- Tools: Git, Figma, Adobe Premiere, Illustrator`
 
 ---
 
@@ -59,6 +53,6 @@ After you commit this README, go to your GitHub profile → **Customize your pin
 ---
 
 ## ✉️ Contact
-- Email: YOUR_EMAIL  
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
+- Email: nadundeshitha828@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nadundeshitha/
 
