@@ -29,55 +29,17 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
 
 ## 🔭 Projects & Highlights
 
-<table>
-  <tr>
-    <!-- Smart Fall -->
-    <td align="center" width="50%">
-      <a href="https://github.com/nadundeshitha/smart-fall">
-        <img src="images/smart-fall.png" alt="Smart Fall" width="260" />
-        <br />
-        <strong>Smart Fall</strong><br />
-        <sub>Wearable Fall Detection & Emergency Alert System</sub>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- HemoSense -->
-    <td align="center" width="50%">
-      <a href="https://github.com/nadundeshitha/hemosense">
-        <img src="images/hemosense.png" alt="HemoSense" width="260" />
-        <br />
-        <strong>HemoSense</strong><br />
-        <sub>Low-Cost Postpartum Hemorrhage Monitoring Device</sub>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Robot Design Competition -->
-    <td align="center" width="50%">
-      <a href="https://github.com/nadundeshitha/robot-design-competition">
-        <img src="images/robot-design.png" alt="Robot Design Competition" width="260" />
-        <br />
-        <strong>Robot Design Competition</strong><br />
-        <sub>Autonomous Mobile Robot (EN2533)</sub>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Design & Media Portfolio -->
-    <td align="center" width="50%">
-      <a href="https://nadundeshitha.top">
-        <img src="images/design-portfolio.png" alt="Design Portfolio" width="260" />
-        <br />
-        <strong>Design & Media Portfolio</strong><br />
-        <sub>Graphic Design, Motion Graphics & Video Editing</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+![HemoSense](images/hemosense.png)  
+[_HemoSense – Low-Cost Real-time Postpartum Hemorrhage (PPH) Monitoring Device_](https://github.com/nadundeshitha/hemosense)
+|
+![Smart Fall](images/smart-fall.png)  
+[_Smart Fall – Wearable Fall Detection & Emergency Alert System_](https://github.com/nadundeshitha/smart-fall)  
+--- | ---
+![Robot Design Competition](images/robot-design.png)  
+[_Robot Design Competition – Autonomous Mobile Robot (EN2533)_](https://github.com/nadundeshitha/robot-design-competition)  
+|  
+![Design Portfolio](images/design-portfolio.png)  
+[_Design & Media Portfolio – Graphic Design, Motion & Video Editing_](https://nadundeshitha.top)
 
 
 ---
