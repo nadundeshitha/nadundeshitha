@@ -29,7 +29,14 @@ I’m a Biomedical Engineering student at University of Moratuwa passionate abou
 
 ## 🔭 Projects & Highlights
 
-![HemoSense](https://github.com/nadundeshitha/nadundeshitha/blob/images/PPH.jpg)[_HemoSense – Low-Cost Real-time Postpartum Hemorrhage (PPH) Monitoring Device_](https://github.com/nadundeshitha/hemosense)|![Smart Fall](https://github.com/nadundeshitha/nadundeshitha/blob/images/smartfall.jpg)[_Smart Fall – Wearable Fall Detection & Emergency Alert System_](https://github.com/nadundeshitha/smart-fall)--- | ---![Robot Design Competition](https://github.com/nadundeshitha/nadundeshitha/blob/images/robot.jpg) [_Robot Design Competition – Autonomous Mobile Robot (EN2533)_](https://github.com/nadundeshitha/robot-design-competition)|!Analog Voltmeter](https://github.com/nadundeshitha/nadundeshitha/blob/images/avoltmeter.jpeg)[_Fully Analog Voltmeter Design & Implementation_](https://github.com/nadundeshitha/analog-voltmeter) 
+![HemoSense](https://github.com/nadundeshitha/nadundeshitha/blob/images/PPH.jpg)[_HemoSense – Low-Cost Real-time Postpartum Hemorrhage (PPH) Monitoring Device_](https://github.com/nadundeshitha/hemosense)
+|
+![Smart Fall](https://github.com/nadundeshitha/nadundeshitha/blob/images/smartfall.jpg)[_Smart Fall – Wearable Fall Detection & Emergency Alert System_](https://github.com/nadundeshitha/smart-fall)
+--- | ---
+![Robot Design Competition](https://github.com/nadundeshitha/nadundeshitha/blob/images/robot.jpg) [_Robot Design Competition – Autonomous Mobile Robot (EN2533)_](https://github.com/nadundeshitha/robot-design-competition)
+|
+!Analog Voltmeter](https://github.com/nadundeshitha/nadundeshitha/blob/images/avoltmeter.jpeg)[_Fully Analog Voltmeter Design & Implementation_](https://github.com/nadundeshitha/analog-voltmeter)
+
 ---
 
 ## 🔗 Skills → Project / Experience
