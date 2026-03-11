@@ -11,7 +11,7 @@
   <a href="mailto:nadundeshitha828@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
   </a>
-  <a href="https://nadundeshitha.top">
+  <a href="https://nadundeshitha.online">
     <img alt="Website" src="https://img.shields.io/badge/Website-Visit-green?logo=google-chrome">
   </a>
   <a href="https://nadundeshitha.top/resume.pdf">
