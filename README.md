@@ -23,7 +23,15 @@
 ---
 
 ## About Me
-I’m a Biomedical Engineering student at University of Moratuwa passionate about healthcare innovation, embedded systems, and creative design. I love combining technology and design to create meaningful solutions to real-world challenges.
+I am a Biomedical Engineering undergraduate at the Department of Electronics and Telecommuni
+cation Engineering, University of Moratuwa, Sri Lanka.
+I am focusing on bridging the gap between physiological signal processing and robust hardware realization.
+My expertise lies in developing embedded solutions that combine machine learning with hands-on fabrication,
+including custom PCB design and 3D modeling, to create high-accuracy biomedical and assistive devices.
+
+Interest Areas: Biomedical Device Design and Manufacturing, Printed Circuit Board (PCB) design, Micro
+controller Programming, Machine Learning, Deep learning, Embedded Machine Learning and Human-Computer
+Interaction.
 
 ---
 
