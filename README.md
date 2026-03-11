@@ -23,15 +23,11 @@
 ---
 
 ## About Me
-I am a Biomedical Engineering undergraduate at the Department of Electronics and Telecommuni
-cation Engineering, University of Moratuwa, Sri Lanka.
-I am focusing on bridging the gap between physiological signal processing and robust hardware realization.
-My expertise lies in developing embedded solutions that combine machine learning with hands-on fabrication,
-including custom PCB design and 3D modeling, to create high-accuracy biomedical and assistive devices.
+I am a Biomedical Engineering undergraduate at the Department of Electronics and Telecommunication Engineering, University of Moratuwa, Sri Lanka.
 
-Interest Areas: Biomedical Device Design and Manufacturing, Printed Circuit Board (PCB) design, Micro
-controller Programming, Machine Learning, Deep learning, Embedded Machine Learning and Human-Computer
-Interaction.
+I am focusing on bridging the gap between physiological signal processing and robust hardware realization. My expertise lies in developing embedded solutions that combine machine learning with hands-on fabrication, including custom PCB design and 3D modeling, to create high-accuracy biomedical and assistive devices.
+
+Interest Areas: Biomedical Device Design and Manufacturing, Printed Circuit Board (PCB) design, Microcontroller Programming, Machine Learning, Deep learning, Embedded Machine Learning and Human-Computer Interaction.
 
 ---
 
