@@ -14,7 +14,7 @@
   <a href="https://nadundeshitha.online">
     <img alt="Website" src="https://img.shields.io/badge/Website-Visit-green?logo=google-chrome">
   </a>
-  <a href="https://nadundeshitha.top/resume.pdf">
+  <a href="https://nadundeshitha.online/nadun_bandara_cv.pdf">
     <img alt="CV" src="https://img.shields.io/badge/CV-Download-orange?logo=adobeacrobatreader">
   </a>
 </p>
